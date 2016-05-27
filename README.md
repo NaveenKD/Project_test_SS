@@ -1,10 +1,11 @@
 
 
-## Clone the folder
+## Clone the folder and
 
-npm install
-npm start
-```
+$npm install
+
+
+$npm start
 
 Now open up [http://localhost:8080]
 
